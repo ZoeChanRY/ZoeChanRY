@@ -4,8 +4,8 @@
 - Effortlessly shifts between world of data and business-senario - that's me!
 - Excited about using data to make a real-world impact.
 - 2 years of industrial experience in leading finance and tech companies.
-- "Your enthusiasm is intimidating everyone" -- as expressed by my friends.
-- Proud owner of a Bichon Frisé named Lucky, passionate about skiing, ice skating, skateboarding, yoga, and jazz dancing.
+- "Your enthusiasm is intimidating everyone🔥" -- as expressed by my friends.
+- Proud owner of a Bichon Frisé named Lucky🐶, passionate about skiing🎿, ice skating⛸️, skateboarding🛹, yoga🧘, and jazz dancing💃.
 
 
 ## About Me
