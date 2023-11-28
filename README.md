@@ -17,10 +17,10 @@
   
 ### Interests
 - Machine Learning
-- Data science
+- Data Science
 - NLP
 - Large Language Models
-- Web3 & blockchain & Crypto
+- Web3 & Blockchain & Crypto
 
   
 
