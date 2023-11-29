@@ -26,6 +26,20 @@
 
 
 ### Projects
+
+#### AI-Photo-Album-Web-Application [link](https://github.com/ZoeChanRY/AI-Photo-Album-Web-Application)
+
+- Objective: Developed an intelligent photo album web application with natural language text and voice search for efficient photo collection.
+
+- Implementation: Front-end development with HTML, CSS, JavaScript; advanced search with AWS Lex, Rekognition; a robust AWS-powered backend with S3, OpenSearch, Lambda, API Gateway; automated deployment with AWS CodePipeline, CloudFormation.
+
+#### Dining Concierge Chatbot [link](https://github.com/ZoeChanRY/DiningConcierge)
+
+- Objective: Build a Dining Concierge chatbot that sends users restaurant suggestions given a set of preferences that users provide the chatbot with through conversation.
+
+- Implementation: The tools used in the Dining Concierge Assistant web application include GitHub for version control, Amazon Lex for chatbot functionality, AWS services for serverless architecture, AWS S3 for hosting the frontend, API Gateway for API setup, Swagger for API specification, AWS Lambda for chatbot operations, CORS for API methods, AWS SDK for API calls, Yelp API for restaurant data, DynamoDB for storing restaurant information, ElasticSearch for restaurant indexing, SQS for queuing requests, SNS for notifications, and CloudWatch for automated event triggers.
+
+  
 #### Smart-Contract-Vulnerability-Detection-Multi-label-Classification-Model [link](https://github.com/zoechenry/Smart-Contract-Vulnerability-Detection-Multi-label-Classification-Model)
 
 - Objective: Created a multi-label classification model designed to detect the 20 vulnerabilities in smart contracts.
