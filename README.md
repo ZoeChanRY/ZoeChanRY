@@ -37,7 +37,7 @@
 
 - Objective: Build a Dining Concierge chatbot that sends users restaurant suggestions given a set of preferences that users provide the chatbot with through conversation.
 
-- Implementation: The tools used in the Dining Concierge Assistant web application include GitHub for version control, Amazon Lex for chatbot functionality, AWS services for serverless architecture, AWS S3 for hosting the frontend, API Gateway for API setup, Swagger for API specification, AWS Lambda for chatbot operations, CORS for API methods, AWS SDK for API calls, Yelp API for restaurant data, DynamoDB for storing restaurant information, ElasticSearch for restaurant indexing, SQS for queuing requests, SNS for notifications, and CloudWatch for automated event triggers.
+- Implementation: GitHub for version control, Amazon Lex for chatbot functionality, AWS services for serverless architecture, AWS S3 for hosting the frontend, API Gateway for API setup, Swagger for API specification, AWS Lambda for chatbot operations, DynamoDB for storing restaurant information, ElasticSearch for restaurant indexing, SQS for queuing requests, SNS for notifications, and CloudWatch for automated event triggers.
 
   
 #### Smart-Contract-Vulnerability-Detection-Multi-label-Classification-Model [link](https://github.com/zoechenry/Smart-Contract-Vulnerability-Detection-Multi-label-Classification-Model)
